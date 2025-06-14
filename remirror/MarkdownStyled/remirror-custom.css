@@ -1,0 +1,24 @@
+/**
+ * Checkbox style
+ */
+#editor .remirror-editor ul > li.remirror-list-item-with-custom-mark {
+  margin-left: 1.8rem;
+}
+
+/* #editor .remirror-editor h1 {
+  font-size: 2rem;
+  font-weight: bolder;
+  color: crimson;
+} */
+
+#editor .remirror-editor code {
+  background: #eeeeee;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
+
+#editor .remirror-editor pre code {
+  background: unset;
+  padding: unset;
+  border-radius: unset;
+}
